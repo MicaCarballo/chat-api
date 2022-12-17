@@ -31,6 +31,7 @@
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.26.0",
+    "skeleton": "github:MicaCarballo/chat-api",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
